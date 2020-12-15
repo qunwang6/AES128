@@ -1,0 +1,6 @@
+framework module Pods_aestest {
+  umbrella header "Pods-aestest-umbrella.h"
+
+  export *
+  module * { export * }
+}

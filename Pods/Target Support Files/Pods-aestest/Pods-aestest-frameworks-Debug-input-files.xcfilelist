@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-aestest/Pods-aestest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CocoaSecurity/CocoaSecurity.framework
+${BUILT_PRODUCTS_DIR}/FFAES/FFAES.framework
